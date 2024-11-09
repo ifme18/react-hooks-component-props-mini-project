@@ -1,5 +1,5 @@
-// ArticleList.js
-import Article from "./Article"; // Import the Article component
+
+import Article from "./Article"; 
 
 function ArticleList() {
   const blogPosts = [
